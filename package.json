@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@vk-io/session": "^2.1.0",
+    "lodash": "^4.17.21",
+    "vk-io": "^4.5.2"
+  }
+}
